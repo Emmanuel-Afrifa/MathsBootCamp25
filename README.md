@@ -1,7 +1,7 @@
 # Maths for Machine Learning BootCamp 2025
 This repo will contain all the relevant materials for the WiMLDS Accra 2nd Edition Maths Bootcamp.
 
-![Promotional Flyer](https://raw.githubusercontent.com/WiMLDS-Ghana/MathsBootCamp24/main/flyer.jpeg)
+![Promotional Flyer](https://github.com/user-attachments/assets/c421ee3d-66aa-46b7-b735-f8872b345035)
 
 
 
